@@ -1,0 +1,28 @@
+l /
+c c f
+c fd d
+c aux d
+c a f
+c b f
+c d f
+c e f
+c f f
+c g f
+c h f
+l c
+l /
+l a
+d c
+l a
+l b
+l d
+c w d
+c r d
+l b
+l c
+l aux
+l fd
+l aux/fd
+m aux aux/aux
+l fd
+l aux/fd

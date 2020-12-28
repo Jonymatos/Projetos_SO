@@ -1,0 +1,22 @@
+c fd d
+c fd/i f
+c a d
+c b f
+c c f
+c a/b f
+c d f
+c e f
+c a/x d
+c f f
+c g f
+c a/x/c d
+c h f
+l c
+#d c
+c afe f
+c ausdg f
+c a/x/c/e d
+c a/x/y f
+c a/x/c/e/gwe f
+l a/x/c/e/gwe
+l c

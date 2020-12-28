@@ -1,0 +1,10 @@
+c ew d
+c ew/y d
+c ew/y/a d
+c ew/y/a/a d
+c ew/y/a/a/a d
+c ew/uyfu d
+c /u d
+c /a d
+c i f
+p teste.txt

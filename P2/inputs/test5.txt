@@ -1,0 +1,29 @@
+c a d
+c a/b f
+c a/x d
+c a/x/c d
+c a/x/c/e d
+c a/x/y f
+c a/x/c/t/gwe f
+c a/x/c/e/gwe f
+l a
+l a/b
+l a/x
+l a/x/y
+l a/x/y/z
+d a/x
+l a/x
+l a/x/y
+l a/x/c/e/gwe
+c a/x/c/e/test.txt f
+c a/x/i/nada.xt f
+c r d
+c r/g d
+l r/g
+l r/g/uyv
+# c r/g/we f
+# l r/g/we
+# c r/g/ab d
+# c r/g/ab/App.java f
+# c r/dir d
+# c r/dir/fe d
